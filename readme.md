@@ -1,6 +1,4 @@
-##Мини проект CRUD => Create,Read,Update and Delete.
-
-##### I hope you like it..
+#### Мини проект CRUD => Create,Read,Update and Delete.
 
 #### It's home page, here you can also search record by name and also add pagination.
 ![Home Page](screenshots/Capture.PNG)
