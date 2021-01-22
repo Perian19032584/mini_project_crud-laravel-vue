@@ -13,6 +13,8 @@
 ##### 3. Ввести команду: `npm install`
 ##### 4. Ввести команду: `php artisan laravel-vue:install`
 ##### 5. Ввести команду: `php artisan key:generate`
+##### 5. Ввести команду: `php artisan migrate`
+
 
 
 
