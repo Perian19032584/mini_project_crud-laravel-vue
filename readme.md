@@ -1,14 +1,18 @@
-#### Мини проект CRUD => Create,Read,Update and Delete.
+#### Мини проект CRUD => Создание, Просмотр, Обновление и Удалить.
 
-#### It's home page, here you can also search record by name and also add pagination.
+#### Это главная страница, динимачисекие роуты, анимирование, пагинация, валидация и прочее
 ![Home Page](screenshots/Capture.PNG)
 
-##### 1. Clone this repository (or download and extract the .zip)
+                     
 
-##### 2. Run `composer install` from inside the project directory to download PHP dependencies.
+#Установка
+                     
 
-##### 3. Run `npm install` or `yarn` to download JS dependencies.
+##### 1. Скачать файл
+##### 2. Ввести команду: `composer install`
+##### 3. Ввести команду: `npm install`
+##### 4. Ввести команду: `php artisan laravel-vue:install`
+##### 5. Ввести команду: `php artisan key:generate`
 
-##### 4. Run `php artisan laravel-vue:install` and just give the answers.
 
-##### Congratulations! You can now run this mini project.# mini_project_crud-laravel-vue-
+
